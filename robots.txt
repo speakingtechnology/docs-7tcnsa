@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-pqw4uc.indocuan.space/sitemap.xml
